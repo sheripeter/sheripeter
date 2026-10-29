@@ -89,7 +89,7 @@ I'm excited to keep learning, solve problems, and turn practice into real-world 
 ## 🤝 Let's Connect
 
 <p>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/sheri-peter-7b9323243">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
